@@ -1,1 +1,1 @@
-This repo containsd machine learning course project and homeworks.
+This repo contains machine learning course project and homeworks.
