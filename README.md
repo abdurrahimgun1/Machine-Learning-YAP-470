@@ -1,1 +1,1 @@
-This folder contains implementation of decision tree model from scratch.
+This repo containsd machine learning course project and homeworks.
